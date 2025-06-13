@@ -1,1 +1,2 @@
-App for uploading documents to be manufactured.
+App for uploading spec documents for machines to be manufactured.
+
